@@ -1,0 +1,26 @@
+.color-blue {
+  color: blue;
+}
+
+.color-red {
+  color: red;
+}
+
+.color-green {
+  color: green;
+}
+
+.plus-sign {
+  position: fixed;
+
+  right: 15px;
+
+  bottom: 15px;
+}
+
+.wbdv-float-top {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  z-index: 1;
+}
